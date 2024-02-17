@@ -24,4 +24,6 @@ In the initial data preparation phase, I performed the following tasks:
 - Data cleaning and formatting
   - Duplicate columns ID and Name removed.
   - Created folders to group 2013,2014 & 2015 columns together.
+
+    ![Folders](Folders.jpg)
   
