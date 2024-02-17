@@ -1,7 +1,4 @@
-# 1000-Startups
-[Tableau Dashboard](https://public.tableau.com/app/profile/akshay.saraf/viz/TopStartupsforVCInvestment/TopStartups#1)
-
-![](Images/Top_Startups.png)
+# [1000-Startups](https://public.tableau.com/app/profile/akshay.saraf/viz/TopStartupsforVCInvestment/TopStartups#1)
 
 ## Project Overview
 This data analysis project provides insights to venture capital fund in analysing over 1000 new startups to make investment. 
@@ -45,6 +42,9 @@ Highlighted companies having higher revenue(>$9M). Value is dynamic and can be c
 Highlighted companies having lower expenses(<$5M). Value is dynamic and can be changed.
 
 Highlighted companies having higher revenue(>$9M) and lower expenses(<$5M). The Y-axis is reversed so that the quadrant is on right top side.
+
+## Final Dashboard
+![](https://github.com/aksaraf/1000-Startups/blob/0be6a3816a19bc48fa3962288339eba8e145a666/Images/Top%20Startups.png)
 
 
 ### Tableau Learnings:
