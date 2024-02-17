@@ -1,6 +1,8 @@
 # 1000-Startups
 [Tableau Dashboard](https://public.tableau.com/app/profile/akshay.saraf/viz/TopStartupsforVCInvestment/TopStartups#1)
 
+![](Images/Top_Startups.png)
+
 ## Project Overview
 This data analysis project provides insights to venture capital fund in analysing over 1000 new startups to make investment. 
 The criterion for selecting investments for this fund is combination of:
