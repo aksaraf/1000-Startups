@@ -1,21 +1,5 @@
 # [1000-Startups](https://public.tableau.com/app/profile/akshay.saraf/viz/TopStartupsforVCInvestment/TopStartups#1)
 
-## Table of Contents
-
-[Project Overview](https://github.com/aksaraf/1000-Startups/edit/main/README.md#project-overview)
-
-[Data Source](https://github.com/aksaraf/1000-Startups/edit/main/README.md#data-source)
-
-[Data Cleaning/Preparation](https://github.com/aksaraf/1000-Startups/edit/main/README.md#table-of-contents)
-
-[Exploratory Data Analysis](https://github.com/aksaraf/1000-Startups/edit/main/README.md#exploratory-data-analysis)
-
-[Final Dashboard](https://github.com/aksaraf/1000-Startups/edit/main/README.md#final-dashboard)
-
-[Tableau Learnings](https://github.com/aksaraf/1000-Startups/edit/main/README.md#tableau-learnings)
-
-[Reference](https://github.com/aksaraf/1000-Startups/edit/main/README.md#reference)
-
 ## Project Overview
 This data analysis project provides insights to venture capital fund in analysing over 1000 new startups to make investment. 
 The criterion for selecting investments for this fund is combination of:
