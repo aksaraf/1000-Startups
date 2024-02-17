@@ -25,17 +25,17 @@ In the initial data preparation phase, I performed the following tasks:
     ![](https://github.com/aksaraf/1000-Startups/blob/97ac005c8d4353cf94221d1e4ab2dc027493daa4/Images/Folders.jpg)
 
 ## Exploratory Data Analysis
-### 1. Number of companies founded each year
+### 1. Number Of Companies Founded Each Year
 The following bar chart shows the number of companies founded in each year from 1999 to 2014.
 ![](https://github.com/aksaraf/1000-Startups/blob/97ac005c8d4353cf94221d1e4ab2dc027493daa4/Images/No.%20of%20companies%20founded%20each%20year.jpg)
 
 We can group a few of the previous years data (1999–2009) together using the group function in the tableau.
 ![](https://github.com/aksaraf/1000-Startups/blob/97ac005c8d4353cf94221d1e4ab2dc027493daa4/Images/No.%20of%20companies%20founded%20each%20other%20(group).jpg)
 
-### 2. Average number of employees in each industry
+### 2. Average Number Of Employees In Each Industry
 ![](https://github.com/aksaraf/1000-Startups/blob/97ac005c8d4353cf94221d1e4ab2dc027493daa4/Images/Avg%20no.%20of%20employees%20in%20each%20industry.jpg)
 
-### 3. Top 10 startups by growth %
+### 3. Top 10 Startups By Growth %
 ![](https://github.com/aksaraf/1000-Startups/blob/97ac005c8d4353cf94221d1e4ab2dc027493daa4/Images/top%2010%20startups%20by%20growth%20%25.jpg)
 
 ### 4. 2015 Revenue vs. 2015 Expenses
