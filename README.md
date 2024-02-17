@@ -1,5 +1,5 @@
 # 1000-Startups
-Data Analysis Project
+[Tableau Dashboard](https://public.tableau.com/app/profile/akshay.saraf/viz/TopStartupsforVCInvestment/TopStartups#1)
 
 ## Project Overview
 This data analysis project provides insights to venture capital fund in analysing over 1000 new startups to make investment. 
@@ -10,9 +10,6 @@ The criterion for selecting investments for this fund is combination of:
 
 ## Data Sources
 The primary dataset used for this analysis is the csv file, containing two sheets Financials and Overview information about 1000 startups.
-
-## Tools
-1. Tableau
 
 ## Data Cleaning/Preparation
 In the initial data preparation phase, I performed the following tasks:
@@ -48,7 +45,12 @@ Highlighted companies having lower expenses(<$5M). Value is dynamic and can be c
 Highlighted companies having higher revenue(>$9M) and lower expenses(<$5M). The Y-axis is reversed so that the quadrant is on right top side.
 
 
-### Tableau Functions Used:
-1. Groups
-2. Sets (Static & Dynamic)
+### Tableau Learnings:
+1.How to create groups
+2. Groups vs. Sets
+3. Static Sets
+4. Dynamic Sets
+5. Combining Sets
+6. Controlling Sets with Parameters
+7. Controlling Sets with Formulas
   
