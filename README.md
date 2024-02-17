@@ -15,13 +15,13 @@ The primary dataset used for this analysis is the csv file, containing two sheet
 1. Tableau
 
 ## Data Cleaning/Preparation
-In the initial data preparation phase, we performed the following tasks:
+In the initial data preparation phase, I performed the following tasks:
 
-Data loading and inspection
-  The two sheets in the csv file, Financials and Overview are connected to each other using inner join in tableau.
-Handling missing values.
-Data cleaning and formatting
-  Duplicate columns ID and Name removed.
-  Created folders to group 2013,2014 & 2015 columns together.
-  ![Folders](D:/Courses/Udemy_Tableau_Advanced/Section_2_-_Groups_&_Sets.png)
+- Data loading and inspection
+  - The two sheets in the csv file, Financials and Overview are connected to each other using inner join in tableau.
+- Handling missing values.
+  - No missing data
+- Data cleaning and formatting
+  - Duplicate columns ID and Name removed.
+  - Created folders to group 2013,2014 & 2015 columns together.
   
