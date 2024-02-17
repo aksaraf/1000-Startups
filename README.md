@@ -57,6 +57,7 @@ Highlighted companies having higher revenue(>$9M) and lower expenses(<$5M). The 
 ![](https://github.com/aksaraf/1000-Startups/blob/97ac005c8d4353cf94221d1e4ab2dc027493daa4/Images/2015%20Revenue%20vs.%202015%20Expenses%20Scatterplot(High%20Revenue%20%26%20Low%20Expenses).jpg)
 
 ## Final Dashboard
+The dashboard has revenue cutoff, expenses cutoff and top startups by growth % slider so that venture capitalist can adjust the values according to individual requirement to select top startups for investment.
 ![](https://github.com/aksaraf/1000-Startups/blob/0be6a3816a19bc48fa3962288339eba8e145a666/Images/Top%20Startups.png)
 
 
