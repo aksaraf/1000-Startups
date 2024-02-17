@@ -1,5 +1,21 @@
 # [1000-Startups](https://public.tableau.com/app/profile/akshay.saraf/viz/TopStartupsforVCInvestment/TopStartups#1)
 
+## Table of Contents
+
+[Project Overview](https://github.com/aksaraf/1000-Startups/edit/main/README.md#project-overview)
+
+[Data Source](https://github.com/aksaraf/1000-Startups/edit/main/README.md#1000-startups)
+
+[Data Cleaning/Preparation](https://github.com/aksaraf/1000-Startups/edit/main/README.md#table-of-contents)
+
+[Exploratory Data Analysis](https://github.com/aksaraf/1000-Startups/edit/main/README.md#1000-startups)
+
+[Final Dashboard]()
+
+[Tableau Learnings]()
+
+[Reference]()
+
 ## Project Overview
 This data analysis project provides insights to venture capital fund in analysing over 1000 new startups to make investment. 
 The criterion for selecting investments for this fund is combination of:
@@ -7,7 +23,7 @@ The criterion for selecting investments for this fund is combination of:
 2. Low Expense
 3. Top Growth
 
-## Data Sources
+## Data Source
 The primary dataset used for this analysis is the csv file, containing two sheets Financials and Overview information about 1000 startups.
 
 ## Data Cleaning/Preparation
@@ -61,12 +77,14 @@ The dashboard has revenue cutoff, expenses cutoff and top startups by growth % s
 ![](https://github.com/aksaraf/1000-Startups/blob/0be6a3816a19bc48fa3962288339eba8e145a666/Images/Top%20Startups.png)
 
 
-### Tableau Learnings:
-1.How to create groups
+## Tableau Learnings:
+1. How to create groups
 2. Groups vs. Sets
 3. Static Sets
 4. Dynamic Sets
 5. Combining Sets
 6. Controlling Sets with Parameters
 7. Controlling Sets with Formulas
-  
+
+## Reference
+
