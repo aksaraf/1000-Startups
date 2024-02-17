@@ -23,5 +23,5 @@ Handling missing values.
 Data cleaning and formatting
   Duplicate columns ID and Name removed.
   Created folders to group 2013,2014 & 2015 columns together.
-  ![Folders](D:\Courses\Udemy Tableau Advanced\Section 2 - Groups & Sets.png)
+  ![Folders](D:/Courses/Udemy_Tableau_Advanced/Section_2_-_Groups_&_Sets.png)
   
