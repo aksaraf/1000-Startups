@@ -16,8 +16,7 @@ In the initial data preparation phase, I performed the following tasks:
 - Data loading and inspection
   - The two sheets in the csv file, Financials and Overview, are connected to each other using an inner join in the tableau.
     ![](https://github.com/aksaraf/1000-Startups/blob/97ac005c8d4353cf94221d1e4ab2dc027493daa4/Images/Inner%20Join.jpg)
-- Handling missing values.
-  - No missing data
+- Handling missing values
 - Data cleaning and formatting
   - Duplicate columns ID and name removed.
   - Created folders to group the 2013–2014 and 2015 columns together.
